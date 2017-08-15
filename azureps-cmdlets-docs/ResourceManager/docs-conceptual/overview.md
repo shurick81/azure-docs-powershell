@@ -14,13 +14,14 @@ ms.date: 07/26/2017
 
 # Overview of Azure PowerShell
 
-Azure PowerShell provides a set of cmdlets that use the
-[Azure Resource Manager](/azure/azure-resource-manager/resource-group-overview) model for managing
-your Azure resources.
+Azure PowerShell provides a set of cmdlets that use the [Azure Resource
+Manager](/azure/azure-resource-manager/resource-group-overview) model for managing your Azure
+resources. You can use it in your browser with [Azure Cloud Shell](/azure/cloud-shell/overview), or
+you can install it on your local machine and use it in any PowerShell session.
 
 Review the [Install](install-azurerm-ps.md) article to get Azure PowerShell up and running on your
-system. Then read the [Get Started](get-started-azureps.md) article to begin using it. For information about the latest
-release, see the [release notes](release-notes-azureps.md).
+system. Then read the [Get Started](get-started-azureps.md) article to begin using it. For
+information about the latest release, see the [release notes](release-notes-azureps.md).
 
 The following samples can help you learn how to perform common scenarios with Azure PowerShell:
 
@@ -37,9 +38,10 @@ The following samples can help you learn how to perform common scenarios with Az
 
 ### Need help with PowerShell?
 
-If you are unfamiliar with PowerShell, you may find an introduction to PowerShell helpful. To get
-started with PowerShell, see
-[Scripting with PowerShell](https://technet.microsoft.com/library/bb978526.aspx).
+If you are unfamiliar with PowerShell, you may find an introduction to PowerShell helpful.
+
+* [Installing PowerShell](/powershell/scripting/installing-windows-powershell)
+* [Scripting with PowerShell](/powershell/scripting/scripting-with-windows-powershell)
 
 You can also watch this video:
 [PowerShell Basics: (Part 1) Getting Started with PowerShell](https://channel9.msdn.com/Blogs/Taste-of-Premier/PowerShellBasicsPart1).
